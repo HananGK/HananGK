@@ -10,7 +10,7 @@
   - <a href="https://linkedin.com/in/hanangabarron">LinkedIn <img src="logo-linkedin-icon-4096.png" height=20px /></a></p>
 
 <div align="center">
-  <u>What am I up to right now? 📍</u>
+  <p><u>What am I up to right now? 📍</u></p>
   <p>I have just finished a MERN full-stack E-Commerce project that you can find on the pinned repos with other projects that you can also check. I'm also developing an app for a Hackaton with a team.</p>
   <p>Regardind the studies I'm improving my <strong>React</strong> skills above all and I'm currently <strong>open to work</strong> 💻</p>
 </div>
