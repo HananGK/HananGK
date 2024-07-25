@@ -9,4 +9,10 @@
   - My <a href="https://portfolio-hanangk.vercel.app">Portfolio <img src="android-chrome-192x192.png" height=20px /></a> <br />
   - <a href="https://linkedin.com/in/hanangabarron">LinkedIn <img src="logo-linkedin-icon-4096.png" height=20px /></a></p>
 
+<div align="center">
+  <p>What am I up to right now? 📍</p>
+  <p>I have just finished a MERN full-stack E-Commerce project that you can find on the pinned repos with other projects that you can also check. I'm also developing an app for a Hackaton with a team.</p>
+  <p>Regardind the studies I'm improving my React skills above all and open to work 💻</p>
+</div>
+
 
