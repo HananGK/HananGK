@@ -1,6 +1,6 @@
 <h1>¡Hi! Welcome to my GitHub 😊</h1>
 <p align="center">
-  <img src="avatar_readme_github.jpeg" alt="Hanan Gabarron Avatar" style="height:120px;" />
+  <img src="avatar_readme_github.jpeg" alt="Hanan Gabarron Avatar" style="height:150px;" />
   <br/>
   My name is <strong style="color:red;">Hanan Gabarrón Kalito</strong> and I'm a Spanish <strong>Junior Web Developer</strong>, focused on <strong>Front-end</strong> 👩🏻‍💻
 </p>
