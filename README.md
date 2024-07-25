@@ -7,3 +7,4 @@
 
 <p align="center">For more information and contact here you have my <a href="https://portfolio-hanangk.vercel.app">Portfolio</a> and <a href="https://linkedin.com/in/hanangabarron">LinkedIn</a></p>
 android-chrome-192x192.png
+logo-linkedin-icon-4096.png
